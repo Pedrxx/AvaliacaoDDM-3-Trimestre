@@ -10,5 +10,7 @@ npx expo install react-native-web@~0.19.6 react-dom@18.2.0 @expo/webpack-config@
 
 npm install react-native-elements
 
+npm install axios
+
 Para rodar:
 npm run web
